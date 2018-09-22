@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PizzaLocal</string>
+    <string name="txtslogan">Pizza Local</string>
+    <string name="txtslogan2">Whether you are at home, or in the office or on beach,
+        look for your favorite pizza on our Pizza local App. We will find you and feed you. </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
