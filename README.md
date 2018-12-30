@@ -4,12 +4,12 @@ E-Commerce Mobile FoodApp
 Designing and Developing Ecommerce Shopping Application Similar to Food App to run on Android Phones. User can buy pizza through this application. User can view menu by category and can add to Shopping Cart. User can purchase food item online and do online secure payment or otherwise can choose cash on delivery option.
 
 
-# Programmed Native Apps Implementing MVC Pattern, Front-End is Android App and Back-End is developed using PHP/MySQL.
-# Implemented Login, Registration, Settings, Menu, Search, Navigation.
-# Implementing MySQL Database, Writing PHP Script to insert data.
-# Design Homepage in Android to show scrolling images and List view of item to be searched from MySQL DB.
-# Created resources for User Interface and implemented custom UI Components of material design like Menu, Shape Drawable, Edit Text, Text View, Scroll View, Recycler View, Card View, List View, Dialogue, Snack, Bottom Navigation.
-# Developed Apps using custom adapters, java beans, fragments, activities, SQLite, JSON Parsing, XML Parser, OKHttp, Retrofit, Setting Profile, WIFI, phone, SMS, Broadcast Receiver, Notification. 
++ Programmed Native Apps Implementing MVC Pattern, Front-End is Android App and Back-End is developed using PHP/MySQL.
++ Implemented Login, Registration, Settings, Menu, Search, Navigation.
++ Implementing MySQL Database, Writing PHP Script to insert data.
++ Design Homepage in Android to show scrolling images and List view of item to be searched from MySQL DB.
++ Created resources for User Interface and implemented custom UI Components of material design like Menu, Shape Drawable, Edit Text, Text View, Scroll View, Recycler View, Card View, List View, Dialogue, Snack, Bottom Navigation.
++ Developed Apps using custom adapters, java beans, fragments, activities, SQLite, JSON Parsing, XML Parser, OKHttp, Retrofit, Setting Profile, WIFI, phone, SMS, Broadcast Receiver, Notification. 
 
 
 Known Issues
