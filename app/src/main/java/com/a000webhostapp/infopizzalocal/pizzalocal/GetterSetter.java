@@ -2,13 +2,37 @@ package com.a000webhostapp.infopizzalocal.pizzalocal;
 
 public class GetterSetter {
 
-
+    String zip;
+    String city;
     String title;
     int img;
     String desc;
     String small_price;
     String medium_price;
     String large_price;
+    String image;
+    String size;
+
+    public String getCity() {
+        return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+
+
+    public String getZip() {
+        return zip;
+    }
+
+    public void setZip(String zip) {
+        this.zip = zip;
+    }
+
+
+
 
     public GetterSetter(String title, int img, String desc, String small_price, String medium_price, String large_price) {
         this.title = title;
@@ -17,6 +41,41 @@ public class GetterSetter {
         this.small_price = small_price;
         this.medium_price = medium_price;
         this.large_price = large_price;
+    }
+
+    public GetterSetter(String c_name, String i_image, String c_id, String small_price, String medium_price, String large_price) {
+        this.title = c_name;
+        this.image = i_image;
+        this.desc = c_id;
+        this.small_price = small_price;
+        this.medium_price = medium_price;
+        this.large_price = large_price;
+
+    }
+
+    public GetterSetter(String restaurant, String i_image, String city, String zip) {
+
+        this.title = restaurant;
+        this.image = i_image;
+        this.city = city;
+        this.zip = zip;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
+    }
+
+
+    public String getSize() {
+        return size;
+    }
+
+    public void setSize(String size) {
+        this.size = size;
     }
 
     public String getTitle() {
